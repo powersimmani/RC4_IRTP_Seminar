@@ -9,9 +9,10 @@
 | Wed  | January 10th| Data mining & machine learning             | Machine learning practical (2)        | Ho-min Park  |
 | Thu  | January 11th| Interpretability methods                   | ANN practical with NumPy              | Dahee Kim    |
 | Fri  | January 12th| Artificial Neural Network                  | ANN practical with NumPy              | Taekeun Kim  |
-|------|------------|---------------------------------------------|---------------------------------------|--------------|
+||||||
 | Mon  | January 15th| Convolutional Neural Network               | CNN Practical                         | Dongin Moon  |
 | Tue  | January 16th| Evaluation, loss, and optimizations        | CNN practical +                       | Dongin Moon  |
 | Wed  | January 17th| RNN and Transformer                        | Transformer Practical                 | Ho-min Park  |
 | Thu  | January 18th| Un- and self-supervised learning           | Reinforcement Learning                | Ho-min Park  |
 | Fri  | January 19th| Generative Adversarial Network             | Final exam                            | Ho-min Park  |
+
