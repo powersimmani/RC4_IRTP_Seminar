@@ -31,7 +31,7 @@ The following table presents the list of IRTP supervisors and advisors for this 
 
 ### February 26th, Monday Session
 
-
+The presentations on February 26th included three students from  the AIWS Beginner group and two students from Using Deep Learning in Genomics.
 
 | Presenter                  | Title                                                                   | Code | PPT Link |
 |----------------------------|-------------------------------------------------------------------------|------|----------|
@@ -43,6 +43,9 @@ The following table presents the list of IRTP supervisors and advisors for this 
 
 
 ### February 27th, Tuesday Session
+
+The presentations on February 27th featured contributions from three AIWS Advanced group students, two students focused on the stability analysis of infection models, and one student working on identifying subvisible protein particles in biopharmaceuticals. Additionally, as a special guest, Ilho Yun, an active participant in the Naver Connect AI Bootcamp program, was invited to share his experiences.
+
 
 | Presenter                  | Title                                                                   | Code | PPT Link |
 |----------------------------|-------------------------------------------------------------------------|------|----------|
