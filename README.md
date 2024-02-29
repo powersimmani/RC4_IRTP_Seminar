@@ -8,6 +8,11 @@ Recognizing the importance of documenting and sharing research outcomes, RC4 fac
 
 Below, you can find detailed information regarding the programs' supervisors, advisors, titles, and access to the PowerPoint presentations and related materials submitted by the students, showcasing the diverse range of projects undertaken during these winter training programs.
 
+
+![20240226](./20240226.png)
+![20240226](./20240227.png)
+
+
 ## IRTP Winter Seminars
 
 The IRTP seminars are part of our commitment to nurturing the skills and knowledge of our students in the field of AI and related research areas. Below are the program highlights and the seminar presentations planned for this winter.
@@ -26,7 +31,6 @@ The following table presents the list of IRTP supervisors and advisors for this 
 
 ### February 26th, Monday Session
 
-![20240226](./20240226.png)
 
 
 | Presenter                  | Title                                                                   | Code | PPT Link |
@@ -39,7 +43,6 @@ The following table presents the list of IRTP supervisors and advisors for this 
 
 
 ### February 27th, Tuesday Session
-![20240226](./20240227.png)
 
 | Presenter                  | Title                                                                   | Code | PPT Link |
 |----------------------------|-------------------------------------------------------------------------|------|----------|
