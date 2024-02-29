@@ -15,7 +15,7 @@ The following table presents the list of IRTP supervisors and advisors for this 
 | Prof. Shodhan Rao     | Mr. Sharmant Basidoni | Stability analysis of infection models                           |
 | Prof. Wesley De Neve  | Dr. Utku Ozbulak      | Identifying Subvisible Protein Particles in Biopharmaceuticals   |
 | Prof. Wesley De Neve  | Mr. Espoir Kabanga    | Using Deep Learning in Genomics: A Data-Driven Perspective       |
-| Prof. Wesley De Neve  | Mr. Ho-min Park       | AI Winter School - Tutorial training for BSc. level students     |
+| Prof. Wesley De Neve  | Mr. Ho-min Park       | [AI Winter School - Tutorial training for BSc. level students](https://github.com/powersimmani/AIWS2024) - Tutorial training for BSc. level students     |
 
 
 ## Seminar Presentations
