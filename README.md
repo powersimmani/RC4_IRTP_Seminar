@@ -26,6 +26,9 @@ The following table presents the list of IRTP supervisors and advisors for this 
 
 ### February 26th, Monday Session
 
+![20240226](./20240226.png)
+
+
 | Presenter                  | Title                                                                   | Code | PPT Link |
 |----------------------------|-------------------------------------------------------------------------|------|----------|
 | Chae-Eon Rhee              | Analysis with ML models - Hepatitis C Prediction dataset                | Link | Link     |
@@ -36,6 +39,7 @@ The following table presents the list of IRTP supervisors and advisors for this 
 
 
 ### February 27th, Tuesday Session
+![20240226](./20240227.png)
 
 | Presenter                  | Title                                                                   | Code | PPT Link |
 |----------------------------|-------------------------------------------------------------------------|------|----------|
