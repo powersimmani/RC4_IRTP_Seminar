@@ -35,23 +35,21 @@ The presentations on February 26th included three students from  the AIWS Beginn
 
 | Presenter                  | Title                                                                   | Code | PPT Link |
 |----------------------------|-------------------------------------------------------------------------|------|----------|
-| Chae-Eon Rhee              | Analysis with ML models - Hepatitis C Prediction dataset                | Link | Link     |
-| Gaeun Oh                   | Analysis with ML models - Panic Disorder Detection Dataset              | Link | Link     |
-| Selin Yang                 | Analysis with ML models - Gene expression dataset                       | Link | Link     |
-| Younghyun Cha              | Using Deep Learning in Genomics: A Data-Driven Perspective              | Link | Link     |
-| Hyochan Heo                | Using Deep Learning in Genomics: A Data-Driven Perspective              | Link | Link     |
+| Chae-Eon Rhee              | Analysis with ML models - Hepatitis C Prediction dataset                | Link | [Link](https://www.dropbox.com/scl/fi/qxu8v1ewhyrd2vaf2ycqc/20240226-Chae-Eun-Rhee.pptx?rlkey=kp8j4rhbspsm9cuafofg0xbuy&dl=0)     |
+| Gaeun Oh                   | Analysis with ML models - Panic Disorder Detection Dataset              | Link | [Link](https://www.dropbox.com/scl/fi/882cj9qhtsaoefy703z1a/20240226-Gaeun-Oh.pptx?rlkey=zitpoyku8aucdk5mjstseznkn&dl=0)     |
+| Selin Yang                 | Analysis with ML models - Gene expression dataset                       | Link | [Link]()     |
+| Younghyun Cha              | Using Deep Learning in Genomics: A Data-Driven Perspective              | Link | [Link](https://www.dropbox.com/scl/fi/579rb580lwv9i7o8b40mj/20240226-Younghyun-Cha.pptx?rlkey=qftvzt0x45t4t5stoolvah5ch&dl=0)     |
+| Hyochan Heo                | Using Deep Learning in Genomics: A Data-Driven Perspective              | Link | [Link](https://www.dropbox.com/scl/fi/i74x3oveg3swjqskseg0v/20240226-Hyochan-Heo.pptx?rlkey=qxsntpl9irv6v212cpvmg765p&dl=0)     |
 
 
 ### February 27th, Tuesday Session
 
 The presentations on February 27th featured contributions from three AIWS Advanced group students, two students focused on the stability analysis of infection models, and one student working on identifying subvisible protein particles in biopharmaceuticals. Additionally, as a special guest, Ilho Yun, an active participant in the Naver Connect AI Bootcamp program, was invited to share his experiences.
 
-
-| Presenter                  | Title                                                                   | Code | PPT Link |
-|----------------------------|-------------------------------------------------------------------------|------|----------|
-| Dongin Moon                | Preliminary study of PIPAC Biopsy dataset                               | Link | Link     |
-| Dahee Kim                  | Unsupervised learning on Single cell genome analysis - downstream analysis | Link | Link     |
-| Taekeun Kim & Wonjun Yang  | Equilibrium stability of infection models                               | Link | Link     |
-| Iho Yun                    | Sharing Experience from Naver Connect AI Boost Camp                     | Link | Link     |
-| Woowon Jang                | AI-powered segmentation of sub-visible protein particles in biopharmaceuticals | Link | Link     |
-
+| Presenter                  | Title                                                                          | Code | PPT Link |
+|----------------------------|--------------------------------------------------------------------------------|------|----------|
+| Dongin Moon                | Preliminary study of PIPAC Biopsy dataset                                      | Link | [Link](https://www.dropbox.com/scl/fi/4vrmzw598gujtj3cte0bw/20240227-Dongin-Moon-PIPAC.pptx?rlkey=ath9wvhvohjc2g404gaiol97j&dl=0)     |
+| Dahee Kim                  | Unsupervised learning on Single cell genome analysis - downstream analysis     | Link | [Link](https://www.dropbox.com/scl/fi/fjqwy622zdw4i8l8jmoh9/20240227-Dahee-Kim.pptx?rlkey=tzvbcc98vge03x0uc5kmbnzwa&dl=0)     |
+| Taekeun Kim & Wonjun Yang  | Equilibrium stability of infection models                                      | Link | [Link](https://www.dropbox.com/scl/fi/u7hmtliajlxq83u4j13op/20240227-Taekeun-Kim-and-Wonjun-Yang.pptx?rlkey=4ojuj9vvbb832ha9105dq8sf7&dl=0)     |
+| Iho Yun                    | Sharing Experience from Naver Connect AI Boost Camp                            | Link | [Link](https://www.dropbox.com/scl/fi/34pen9b1skz0tsno3j55k/20240227-Ilho-Yun.pptx?rlkey=9aa0mk2p539l9mgz2orjilu1v&dl=0)     |
+| Woowon Jang                | AI-powered segmentation of sub-visible protein particles in biopharmaceuticals | Link | [Link](https://www.dropbox.com/scl/fi/7yrv58hjcgrx7rczkmag3/20240227-Woowon-Jang.pptx?rlkey=qjevieh60pfq4je82p1hl2olv&dl=0)     |
