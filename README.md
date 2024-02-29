@@ -9,8 +9,8 @@ Recognizing the importance of documenting and sharing research outcomes, RC4 fac
 Below, you can find detailed information regarding the programs' supervisors, advisors, titles, and access to the PowerPoint presentations and related materials submitted by the students, showcasing the diverse range of projects undertaken during these winter training programs.
 
 
-![20240226](./20240226.png)
-![20240226](./20240227.png)
+![Figure1](./figure1.png)
+![Figure2](./figure2.png)
 
 
 ## IRTP Winter Seminars
