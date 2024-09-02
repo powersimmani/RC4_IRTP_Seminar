@@ -1,5 +1,5 @@
 # RC4, Intensive Research Training Program (IRTP) Seminar Series
-**Please refer to the following link to check the [next seminar (2024 - Summer)](https://github.com/powersimmani/AIWS2024) |**
+**Please refer to the following link to check the [next seminar (2024 - Summer)](https://github.com/powersimmani/RC4_IRTP_Seminar_2024_Summer)**
 
 Organized by Ho-min Park (Ph.D. Student, Ghent University)
 
